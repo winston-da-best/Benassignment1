@@ -12,3 +12,4 @@
 3. Create two `variables` to represent the width and height of a rectangle;
 4. Create a `variable` to hold the first letter of a sequence;
 5. Create a `variable` to tell you whether or not a door is open;
+6-7
